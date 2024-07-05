@@ -8,6 +8,7 @@ This application demonstrates a backend service built with Quarkus for integrati
 
 ## Features
 
+- Main feature: Parsing/Searching CSV file data
 - Swagger UI: Explore and interact with the API using Swagger UI.
 - Health Check: Monitor the service health status at Health UI.
 - Micrometer Metrics: View detailed metrics using Micrometer UI.
