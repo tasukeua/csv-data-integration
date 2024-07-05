@@ -35,7 +35,8 @@ The program processes CSV files containing data, indexing them into Elasticsearc
 2. Start Elasticsearch
 
 >[!TIP]
->In the development environment you can use docker-compose file to run the container, path: ```src/main/docker/container/docker-compose-elasticsearch.yml```
+>In the development environment you can use docker-compose file to run the container.
+>Path ```src/main/docker/container/docker-compose-elasticsearch.yml```
 
 If Elasticsearch is not running locally or using Docker:
 
